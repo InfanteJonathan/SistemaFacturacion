@@ -58,22 +58,6 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "SistemaFacturacion.Controllers.DetallesController",
-    "Method": "Obtener",
-    "RelativePath": "api/Detalles/obtener/{idfactura}",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "idfactura",
-        "Type": "System.Int32",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
     "ContainingType": "SistemaFacturacion.Controllers.FacturaController",
     "Method": "Agregar",
     "RelativePath": "api/Factura/agregar",

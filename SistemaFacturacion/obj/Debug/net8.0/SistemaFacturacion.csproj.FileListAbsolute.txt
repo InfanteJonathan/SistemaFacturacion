@@ -140,3 +140,4 @@ D:\C# Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\net8.0\refint\Sis
 D:\C# Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\net8.0\SistemaFacturacion.pdb
 D:\C# Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\net8.0\SistemaFacturacion.genruntimeconfig.cache
 D:\C# Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\net8.0\ref\SistemaFacturacion.dll
+D:\C# Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\net8.0\SistemaFacturacion.sourcelink.json
