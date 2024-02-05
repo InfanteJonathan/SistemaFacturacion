@@ -1,0 +1,15 @@
+D:\C# Projects\SistemaFacturacion\SistemaFacturacion.REPOSITORY\bin\Debug\net8.0\SistemaFacturacion.REPOSITORY.deps.json
+D:\C# Projects\SistemaFacturacion\SistemaFacturacion.REPOSITORY\bin\Debug\net8.0\SistemaFacturacion.REPOSITORY.dll
+D:\C# Projects\SistemaFacturacion\SistemaFacturacion.REPOSITORY\bin\Debug\net8.0\SistemaFacturacion.REPOSITORY.pdb
+D:\C# Projects\SistemaFacturacion\SistemaFacturacion.REPOSITORY\bin\Debug\net8.0\SistemaFacturacion.DATA.dll
+D:\C# Projects\SistemaFacturacion\SistemaFacturacion.REPOSITORY\bin\Debug\net8.0\SistemaFacturacion.DATA.pdb
+D:\C# Projects\SistemaFacturacion\SistemaFacturacion.REPOSITORY\obj\Debug\net8.0\SistemaFacturacion.REPOSITORY.csproj.AssemblyReference.cache
+D:\C# Projects\SistemaFacturacion\SistemaFacturacion.REPOSITORY\obj\Debug\net8.0\SistemaFacturacion.REPOSITORY.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\SistemaFacturacion\SistemaFacturacion.REPOSITORY\obj\Debug\net8.0\SistemaFacturacion.REPOSITORY.AssemblyInfoInputs.cache
+D:\C# Projects\SistemaFacturacion\SistemaFacturacion.REPOSITORY\obj\Debug\net8.0\SistemaFacturacion.REPOSITORY.AssemblyInfo.cs
+D:\C# Projects\SistemaFacturacion\SistemaFacturacion.REPOSITORY\obj\Debug\net8.0\SistemaFacturacion.REPOSITORY.csproj.CoreCompileInputs.cache
+D:\C# Projects\SistemaFacturacion\SistemaFacturacion.REPOSITORY\obj\Debug\net8.0\SistemaF.6C887589.Up2Date
+D:\C# Projects\SistemaFacturacion\SistemaFacturacion.REPOSITORY\obj\Debug\net8.0\SistemaFacturacion.REPOSITORY.dll
+D:\C# Projects\SistemaFacturacion\SistemaFacturacion.REPOSITORY\obj\Debug\net8.0\refint\SistemaFacturacion.REPOSITORY.dll
+D:\C# Projects\SistemaFacturacion\SistemaFacturacion.REPOSITORY\obj\Debug\net8.0\SistemaFacturacion.REPOSITORY.pdb
+D:\C# Projects\SistemaFacturacion\SistemaFacturacion.REPOSITORY\obj\Debug\net8.0\ref\SistemaFacturacion.REPOSITORY.dll

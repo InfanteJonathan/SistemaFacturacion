@@ -1,0 +1,14 @@
+D:\C# Projects\SistemaFacturacion\SistemaFacturacion.DATA\bin\Debug\net8.0\SistemaFacturacion.DATA.deps.json
+D:\C# Projects\SistemaFacturacion\SistemaFacturacion.DATA\bin\Debug\net8.0\SistemaFacturacion.DATA.runtimeconfig.json
+D:\C# Projects\SistemaFacturacion\SistemaFacturacion.DATA\bin\Debug\net8.0\SistemaFacturacion.DATA.dll
+D:\C# Projects\SistemaFacturacion\SistemaFacturacion.DATA\bin\Debug\net8.0\SistemaFacturacion.DATA.pdb
+D:\C# Projects\SistemaFacturacion\SistemaFacturacion.DATA\obj\Debug\net8.0\SistemaFacturacion.DATA.csproj.AssemblyReference.cache
+D:\C# Projects\SistemaFacturacion\SistemaFacturacion.DATA\obj\Debug\net8.0\SistemaFacturacion.DATA.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\SistemaFacturacion\SistemaFacturacion.DATA\obj\Debug\net8.0\SistemaFacturacion.DATA.AssemblyInfoInputs.cache
+D:\C# Projects\SistemaFacturacion\SistemaFacturacion.DATA\obj\Debug\net8.0\SistemaFacturacion.DATA.AssemblyInfo.cs
+D:\C# Projects\SistemaFacturacion\SistemaFacturacion.DATA\obj\Debug\net8.0\SistemaFacturacion.DATA.csproj.CoreCompileInputs.cache
+D:\C# Projects\SistemaFacturacion\SistemaFacturacion.DATA\obj\Debug\net8.0\SistemaFacturacion.DATA.dll
+D:\C# Projects\SistemaFacturacion\SistemaFacturacion.DATA\obj\Debug\net8.0\refint\SistemaFacturacion.DATA.dll
+D:\C# Projects\SistemaFacturacion\SistemaFacturacion.DATA\obj\Debug\net8.0\SistemaFacturacion.DATA.pdb
+D:\C# Projects\SistemaFacturacion\SistemaFacturacion.DATA\obj\Debug\net8.0\SistemaFacturacion.DATA.genruntimeconfig.cache
+D:\C# Projects\SistemaFacturacion\SistemaFacturacion.DATA\obj\Debug\net8.0\ref\SistemaFacturacion.DATA.dll

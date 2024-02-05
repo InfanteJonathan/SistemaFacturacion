@@ -1,0 +1,11 @@
+D:\C# Projects\SistemaFacturacion\SistemaFacturacion.DTO\bin\Debug\net8.0\SistemaFacturacion.DTO.deps.json
+D:\C# Projects\SistemaFacturacion\SistemaFacturacion.DTO\bin\Debug\net8.0\SistemaFacturacion.DTO.dll
+D:\C# Projects\SistemaFacturacion\SistemaFacturacion.DTO\bin\Debug\net8.0\SistemaFacturacion.DTO.pdb
+D:\C# Projects\SistemaFacturacion\SistemaFacturacion.DTO\obj\Debug\net8.0\SistemaFacturacion.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\SistemaFacturacion\SistemaFacturacion.DTO\obj\Debug\net8.0\SistemaFacturacion.DTO.AssemblyInfoInputs.cache
+D:\C# Projects\SistemaFacturacion\SistemaFacturacion.DTO\obj\Debug\net8.0\SistemaFacturacion.DTO.AssemblyInfo.cs
+D:\C# Projects\SistemaFacturacion\SistemaFacturacion.DTO\obj\Debug\net8.0\SistemaFacturacion.DTO.csproj.CoreCompileInputs.cache
+D:\C# Projects\SistemaFacturacion\SistemaFacturacion.DTO\obj\Debug\net8.0\SistemaFacturacion.DTO.dll
+D:\C# Projects\SistemaFacturacion\SistemaFacturacion.DTO\obj\Debug\net8.0\refint\SistemaFacturacion.DTO.dll
+D:\C# Projects\SistemaFacturacion\SistemaFacturacion.DTO\obj\Debug\net8.0\SistemaFacturacion.DTO.pdb
+D:\C# Projects\SistemaFacturacion\SistemaFacturacion.DTO\obj\Debug\net8.0\ref\SistemaFacturacion.DTO.dll
