@@ -9,8 +9,6 @@ public partial class DetalleFactura
 
     public int? IdFactura { get; set; }
 
-    public int? IdProducto { get; set; }
-
     public string? CodigoProducto { get; set; }
 
     public string? NombreProducto { get; set; }
@@ -20,7 +18,8 @@ public partial class DetalleFactura
     public int? Cantidad { get; set; }
 
     public decimal? Subtotal { get; set; }
-    
+
+    public int? IdProducto { get; set; }
 
     public virtual Factura? IdFacturaNavigation { get; set; }
 

@@ -15,7 +15,6 @@ public partial class FamiliaProducto
     public bool? Activo { get; set; }
 
     public DateTime? FechaCreacion { get; set; }
-
     [JsonIgnore]
     public virtual ICollection<Producto> Productos { get; set; } = new List<Producto>();
 }

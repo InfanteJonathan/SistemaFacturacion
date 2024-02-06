@@ -126,6 +126,7 @@ D:\C# Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\net8.0\SistemaFac
 D:\C# Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\net8.0\SistemaFacturacion.csproj.CoreCompileInputs.cache
 D:\C# Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\net8.0\SistemaFacturacion.MvcApplicationPartsAssemblyInfo.cs
 D:\C# Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\net8.0\SistemaFacturacion.MvcApplicationPartsAssemblyInfo.cache
+D:\C# Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\net8.0\SistemaFacturacion.sourcelink.json
 D:\C# Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\net8.0\staticwebassets.build.json
 D:\C# Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\net8.0\staticwebassets.development.json
 D:\C# Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\net8.0\staticwebassets\msbuild.SistemaFacturacion.Microsoft.AspNetCore.StaticWebAssets.props
@@ -140,4 +141,3 @@ D:\C# Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\net8.0\refint\Sis
 D:\C# Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\net8.0\SistemaFacturacion.pdb
 D:\C# Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\net8.0\SistemaFacturacion.genruntimeconfig.cache
 D:\C# Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\net8.0\ref\SistemaFacturacion.dll
-D:\C# Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\net8.0\SistemaFacturacion.sourcelink.json

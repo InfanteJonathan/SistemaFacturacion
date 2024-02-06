@@ -10,6 +10,7 @@ D:\C# Projects\SistemaFacturacion\SistemaFacturacion.SERVICE\obj\Debug\net8.0\Si
 D:\C# Projects\SistemaFacturacion\SistemaFacturacion.SERVICE\obj\Debug\net8.0\SistemaFacturacion.SERVICE.AssemblyInfoInputs.cache
 D:\C# Projects\SistemaFacturacion\SistemaFacturacion.SERVICE\obj\Debug\net8.0\SistemaFacturacion.SERVICE.AssemblyInfo.cs
 D:\C# Projects\SistemaFacturacion\SistemaFacturacion.SERVICE\obj\Debug\net8.0\SistemaFacturacion.SERVICE.csproj.CoreCompileInputs.cache
+D:\C# Projects\SistemaFacturacion\SistemaFacturacion.SERVICE\obj\Debug\net8.0\SistemaFacturacion.SERVICE.sourcelink.json
 D:\C# Projects\SistemaFacturacion\SistemaFacturacion.SERVICE\obj\Debug\net8.0\SistemaF.AA8D6F96.Up2Date
 D:\C# Projects\SistemaFacturacion\SistemaFacturacion.SERVICE\obj\Debug\net8.0\SistemaFacturacion.SERVICE.dll
 D:\C# Projects\SistemaFacturacion\SistemaFacturacion.SERVICE\obj\Debug\net8.0\refint\SistemaFacturacion.SERVICE.dll

@@ -49,6 +49,7 @@ namespace SistemaFacturacion.SERVICE
                 producto.Precio = modelo.Precio;
                 producto.Stock = modelo.Stock;
                 producto.Activo = modelo.Activo;
+                producto.Imagen = modelo.Imagen;
 
                 _repositorio.Actualizar(producto);
                 await _repositorio.Save();

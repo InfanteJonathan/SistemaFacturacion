@@ -5,22 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{075FA755-4A9C-4761-AF67-DF6ADC410ED5}|SistemaFacturacion\\SistemaFacturacion.csproj|d:\\c# projects\\sistemafacturacion\\sistemafacturacion\\controllers\\detallescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{075FA755-4A9C-4761-AF67-DF6ADC410ED5}|SistemaFacturacion\\SistemaFacturacion.csproj|solutionrelative:sistemafacturacion\\controllers\\detallescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19F3FA03-9D3C-4192-B4B3-590534039062}|SistemaFacturacion.REPOSITORY\\SistemaFacturacion.REPOSITORY.csproj|d:\\c# projects\\sistemafacturacion\\sistemafacturacion.repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19F3FA03-9D3C-4192-B4B3-590534039062}|SistemaFacturacion.REPOSITORY\\SistemaFacturacion.REPOSITORY.csproj|solutionrelative:sistemafacturacion.repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19F3FA03-9D3C-4192-B4B3-590534039062}|SistemaFacturacion.REPOSITORY\\SistemaFacturacion.REPOSITORY.csproj|d:\\c# projects\\sistemafacturacion\\sistemafacturacion.repository\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19F3FA03-9D3C-4192-B4B3-590534039062}|SistemaFacturacion.REPOSITORY\\SistemaFacturacion.REPOSITORY.csproj|solutionrelative:sistemafacturacion.repository\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{075FA755-4A9C-4761-AF67-DF6ADC410ED5}|SistemaFacturacion\\SistemaFacturacion.csproj|d:\\c# projects\\sistemafacturacion\\sistemafacturacion\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{075FA755-4A9C-4761-AF67-DF6ADC410ED5}|SistemaFacturacion\\SistemaFacturacion.csproj|solutionrelative:sistemafacturacion\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6C756D3-E8D1-4EA8-8B34-34F20656E6E0}|SistemaFacturacion.SERVICE\\SistemaFacturacion.SERVICE.csproj|d:\\c# projects\\sistemafacturacion\\sistemafacturacion.service\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6C756D3-E8D1-4EA8-8B34-34F20656E6E0}|SistemaFacturacion.SERVICE\\SistemaFacturacion.SERVICE.csproj|solutionrelative:sistemafacturacion.service\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,64 +30,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductoRepository.cs",
-              "DocumentMoniker": "D:\\C# Projects\\SistemaFacturacion\\SistemaFacturacion.REPOSITORY\\ProductoRepository.cs",
-              "RelativeDocumentMoniker": "SistemaFacturacion.REPOSITORY\\ProductoRepository.cs",
-              "ToolTip": "D:\\C# Projects\\SistemaFacturacion\\SistemaFacturacion.REPOSITORY\\ProductoRepository.cs",
-              "RelativeToolTip": "SistemaFacturacion.REPOSITORY\\ProductoRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-05T02:13:31.463Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "DetallesController.cs",
               "DocumentMoniker": "D:\\C# Projects\\SistemaFacturacion\\SistemaFacturacion\\Controllers\\DetallesController.cs",
               "RelativeDocumentMoniker": "SistemaFacturacion\\Controllers\\DetallesController.cs",
               "ToolTip": "D:\\C# Projects\\SistemaFacturacion\\SistemaFacturacion\\Controllers\\DetallesController.cs",
               "RelativeToolTip": "SistemaFacturacion\\Controllers\\DetallesController.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAYwBwAAAAhAAAA",
+              "ViewState": "AQIAADkAAAAAAAAAAAAcwEcAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-05T02:07:52.559Z",
+              "WhenOpened": "2024-02-06T02:05:07.845Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "D:\\C# Projects\\SistemaFacturacion\\SistemaFacturacion\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "SistemaFacturacion\\Controllers\\UsuarioController.cs",
-              "ToolTip": "D:\\C# Projects\\SistemaFacturacion\\SistemaFacturacion\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "SistemaFacturacion\\Controllers\\UsuarioController.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAAADgAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-04T22:28:56.127Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UsuarioService.cs",
-              "DocumentMoniker": "D:\\C# Projects\\SistemaFacturacion\\SistemaFacturacion.SERVICE\\UsuarioService.cs",
-              "RelativeDocumentMoniker": "SistemaFacturacion.SERVICE\\UsuarioService.cs",
-              "ToolTip": "D:\\C# Projects\\SistemaFacturacion\\SistemaFacturacion.SERVICE\\UsuarioService.cs",
-              "RelativeToolTip": "SistemaFacturacion.SERVICE\\UsuarioService.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-04T22:21:53.367Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UsuarioRepository.cs",
-              "DocumentMoniker": "D:\\C# Projects\\SistemaFacturacion\\SistemaFacturacion.REPOSITORY\\UsuarioRepository.cs",
-              "RelativeDocumentMoniker": "SistemaFacturacion.REPOSITORY\\UsuarioRepository.cs",
-              "ToolTip": "D:\\C# Projects\\SistemaFacturacion\\SistemaFacturacion.REPOSITORY\\UsuarioRepository.cs",
-              "RelativeToolTip": "SistemaFacturacion.REPOSITORY\\UsuarioRepository.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAqwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-04T22:21:48.976Z"
             }
           ]
         }

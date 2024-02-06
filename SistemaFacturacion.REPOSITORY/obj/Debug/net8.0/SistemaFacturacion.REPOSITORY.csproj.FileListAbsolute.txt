@@ -8,6 +8,7 @@ D:\C# Projects\SistemaFacturacion\SistemaFacturacion.REPOSITORY\obj\Debug\net8.0
 D:\C# Projects\SistemaFacturacion\SistemaFacturacion.REPOSITORY\obj\Debug\net8.0\SistemaFacturacion.REPOSITORY.AssemblyInfoInputs.cache
 D:\C# Projects\SistemaFacturacion\SistemaFacturacion.REPOSITORY\obj\Debug\net8.0\SistemaFacturacion.REPOSITORY.AssemblyInfo.cs
 D:\C# Projects\SistemaFacturacion\SistemaFacturacion.REPOSITORY\obj\Debug\net8.0\SistemaFacturacion.REPOSITORY.csproj.CoreCompileInputs.cache
+D:\C# Projects\SistemaFacturacion\SistemaFacturacion.REPOSITORY\obj\Debug\net8.0\SistemaFacturacion.REPOSITORY.sourcelink.json
 D:\C# Projects\SistemaFacturacion\SistemaFacturacion.REPOSITORY\obj\Debug\net8.0\SistemaF.6C887589.Up2Date
 D:\C# Projects\SistemaFacturacion\SistemaFacturacion.REPOSITORY\obj\Debug\net8.0\SistemaFacturacion.REPOSITORY.dll
 D:\C# Projects\SistemaFacturacion\SistemaFacturacion.REPOSITORY\obj\Debug\net8.0\refint\SistemaFacturacion.REPOSITORY.dll

@@ -21,7 +21,6 @@ public partial class Factura
     public decimal? Igv { get; set; }
 
     public decimal? Total { get; set; }
-
     [JsonIgnore]
     public virtual ICollection<DetalleFactura> DetalleFacturas { get; set; } = new List<DetalleFactura>();
 }

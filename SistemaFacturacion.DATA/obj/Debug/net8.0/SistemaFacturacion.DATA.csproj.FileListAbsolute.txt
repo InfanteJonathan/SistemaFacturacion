@@ -7,6 +7,7 @@ D:\C# Projects\SistemaFacturacion\SistemaFacturacion.DATA\obj\Debug\net8.0\Siste
 D:\C# Projects\SistemaFacturacion\SistemaFacturacion.DATA\obj\Debug\net8.0\SistemaFacturacion.DATA.AssemblyInfoInputs.cache
 D:\C# Projects\SistemaFacturacion\SistemaFacturacion.DATA\obj\Debug\net8.0\SistemaFacturacion.DATA.AssemblyInfo.cs
 D:\C# Projects\SistemaFacturacion\SistemaFacturacion.DATA\obj\Debug\net8.0\SistemaFacturacion.DATA.csproj.CoreCompileInputs.cache
+D:\C# Projects\SistemaFacturacion\SistemaFacturacion.DATA\obj\Debug\net8.0\SistemaFacturacion.DATA.sourcelink.json
 D:\C# Projects\SistemaFacturacion\SistemaFacturacion.DATA\obj\Debug\net8.0\SistemaFacturacion.DATA.dll
 D:\C# Projects\SistemaFacturacion\SistemaFacturacion.DATA\obj\Debug\net8.0\refint\SistemaFacturacion.DATA.dll
 D:\C# Projects\SistemaFacturacion\SistemaFacturacion.DATA\obj\Debug\net8.0\SistemaFacturacion.DATA.pdb
