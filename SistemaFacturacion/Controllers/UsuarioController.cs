@@ -55,7 +55,7 @@ namespace SistemaFacturacion.Controllers
 
                 if (contador >= 3)
                 {
-                    bloqueohasta = DateTime.Now.AddMinutes(1);
+                    bloqueohasta = DateTime.Now.AddSeconds(5);
                     contador = 0;
                 }
 
