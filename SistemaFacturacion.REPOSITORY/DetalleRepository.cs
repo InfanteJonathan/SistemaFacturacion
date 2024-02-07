@@ -34,6 +34,7 @@ namespace SistemaFacturacion.REPOSITORY
             {
                 throw new Exception("Producto no encontrado");
             }
+
             producto.Stock -= entity.Cantidad;
             _context.Entry(producto).State = EntityState.Modified;
 

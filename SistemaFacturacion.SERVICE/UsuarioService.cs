@@ -13,8 +13,6 @@ namespace SistemaFacturacion.SERVICE
 {
     public class UsuarioService : IService<Usuario>
     {
-        //private static int contador = 0;
-        //private static DateTime bloqueohasta = DateTime.MinValue;
 
 
         private readonly IGenericRepositorio<Usuario> _repository;
@@ -26,39 +24,7 @@ namespace SistemaFacturacion.SERVICE
             _context = context;
         }
 
-        //public async Task ValidarLogin(string nom, string pass)
-        //{
-        //    if (DateTime.Now < bloqueohasta)
-        //    {
-        //        return new StatusCodeResult((int)HttpStatusCode.Unauthorized);
-        //    }
-
-
-        //    var usuario = await _context.Usuarios.FirstOrDefaultAsync(u => u.Nombre ==nom);
-
-
-
-        //    if (usuario == null  || usuario.Contrasenia!= pass)
-        //    {
-        //        Console.WriteLine("Nombre de ususario/Contaseña Incorrectos");
-        //        contador++;
-
-        //        if (contador >= 3)
-        //        {
-        //            bloqueohasta = DateTime.Now.AddMinutes(30);
-        //            Console.WriteLine("Has ingresado datos incorrectos 3 veces. Tu cuenta ha sido" +
-        //                "bloqueada por 30 minutos");
-
-        //            contador = 0;
-        //        }
-        //    }
-        //    else
-        //    {
-        //        Console.WriteLine("!Bienvenido..");
-        //        contador = 0;
-        //    }
-        //}
-
+     
 
         public async Task<IEnumerable<Usuario>> Lista()
         {
